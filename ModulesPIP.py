@@ -1,0 +1,2 @@
+import Dictionary
+print(Dictionary)
